@@ -456,10 +456,10 @@ b, strong {
 }
 
 .social-links .uil {
-  color: #f7f3f3;
-  font-size: 20px;
+  color: graye;
+  font-size: 35px;
   display: block;
-  margin: 5px 0;
+  margin: 5px;
 }
 .social-links .uil:hover {
   color: #ffc200;
@@ -568,4 +568,12 @@ b, strong {
     display: inline-block;
     vertical-align: top;
   }
+}
+
+
+
+.myimage{
+    margin-left: auto;
+    margin-right: auto;
+    
 }
